@@ -1,6 +1,8 @@
 ## :shield: A.U.R.A. — Absorption-based Universal Reinforcement Architecture
 
-**Version: v1.0**
+![](https://img.shields.io/github/created-at/byEldrithc/AURA) ![](https://img.shields.io/badge/Minecraft
+
+-26.1.2-blue) ![](https://img.shields.io/badge/version-v1.0-green)
 
 **AURA** is a datapack library for managing custom absorption shields with independent IDs, durations, and stacking behavior.
 
@@ -40,7 +42,7 @@ Applying a shield of `5` (2.5 hearts), then a shield of `3` (1.5 hearts) with a 
 
 Taking 1 heart of damage leaves 3 hearts remaining. Once the `5` shield expires, only the `3` shield (unaffected) remains.
 
-<!-- Add a demo video/gif here -->
+https://github.com/user-attachments/assets/000aebe3-29a5-4402-b340-47d6985c77f1
 
 ---
 
