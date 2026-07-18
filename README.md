@@ -1,8 +1,6 @@
 ## :shield: A.U.R.A. — Absorption-based Universal Reinforcement Architecture
 
-![](https://img.shields.io/github/created-at/byEldrithc/AURA) ![](https://img.shields.io/badge/Minecraft
-
--26.1.2-blue) ![](https://img.shields.io/badge/version-v1.0-green)
+![](https://img.shields.io/github/created-at/byEldrithc/AURA) ![](https://img.shields.io/badge/Minecraft-26.1.2-blue) ![](https://img.shields.io/badge/version-v1.0-green)
 
 **AURA** is a datapack library for managing custom absorption shields with independent IDs, durations, and stacking behavior.
 
