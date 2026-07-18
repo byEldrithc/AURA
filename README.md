@@ -4,8 +4,6 @@
 
 **AURA** is a datapack library for managing custom absorption shields with independent IDs, durations, and stacking behavior.
 
-:loudspeaker: *This will be shared soon — feedback is important, so let me know what you think or if anything's unclear!*
-
 ### How it works
 
 Each shield accepts the following parameters:
